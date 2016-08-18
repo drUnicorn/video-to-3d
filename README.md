@@ -7,6 +7,8 @@
   * [Xamarin Guide](https://developer.xamarin.com/guides/cross-platform/getting_started)
   * [Xamarin Plugins](https://github.com/xamarin/XamarinComponents)
   * [SQLite-NET](https://github.com/praeclarum/sqlite-net)
+    * člověk by neřekl, že se někdo může rozplývat nad kouskem kódu, ale vážně,
+      tohle je ta nejhezčí knihovna, co jsem zatím viděl :)
 
 3. Pixel-to-pixel mapping
 
