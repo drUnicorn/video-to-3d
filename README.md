@@ -1,2 +1,11 @@
-# video-to-3d
-School project: Android+iOS app that creates 3D models from camera data
+# Useful links
+
+1. General
+  * [Photogrammetry techniques](http://geogebra.org/m/jUv4tegu) (Geogebra)
+
+2. Codewriting
+  * [Xamarin Guide](https://developer.xamarin.com/guides/cross-platform/getting_started)
+3. Pixel-to-pixel mapping
+4. Model reconstruction
+  * [4dface](https://github.com/patrikhuber/4dface) features morphing
+    * [Fitting 3D Morphable Models using Local Features](http://arxiv.org/pdf/1503.02330v1.pdf)
